@@ -1,2 +1,2 @@
 # hackmud-qr
-Old hackmud script for scraping t2 NPCs, javascript golf flex
+I have no idea if this works anymore but i wrote it forever ago for the game hackmud but i like keeping it as an insane example of character optimized js. I might add non-game test for it if i get bored one day.
